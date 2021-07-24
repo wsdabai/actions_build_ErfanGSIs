@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/TGxIdVJXNzhwTDdqaEtydGQ2elFMYUhLWEV4SGh2YTZ1a0lMdFphNlY4aUxPSnE2YXltdTkvaFRhM3p1NWpMb2xEZDZYVGJBdTkxMGd2QzVtMGpjSzAwN3YrNEdNWTBSS0xUNEJSNGYvcWs9/PixelExperience_Plus_santoni-10.0-20200419-0704-OFFICIAL.zip
-  ROM_NAME: Generic Pixel
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/note8/8.1.5.0/cn/20210518233842/52ceba36/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
